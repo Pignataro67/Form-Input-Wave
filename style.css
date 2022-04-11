@@ -32,3 +32,10 @@ body {
   text-decoration: none;
   color: lightblue;
 }
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  background: lightblue;
+}
